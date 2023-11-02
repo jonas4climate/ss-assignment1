@@ -1,2 +1,6 @@
 *.png
 !/media/final
+!CalvinLaw*
+.DS_Store
+.ipynb_checkpoints
+```
